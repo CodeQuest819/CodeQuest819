@@ -1,4 +1,3 @@
-![header](./header.svg)
 
 # 👋 Hey — I'm **Num#PY** 😹
 
