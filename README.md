@@ -25,12 +25,5 @@
 
 ---
 
-### 🌍 Connect With Me  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeQuest819)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-1d4ed8?style=for-the-badge&logo=vercel&logoColor=white)](https://yourwebsite.com)  
-
----
-
 ### ⚡ Fun Fact  
 > “Code like lightning, debug like thunder.” ⚡
