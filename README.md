@@ -1,29 +1,28 @@
-# 👋 Hey there, I'm Num#PY 😹  
+![header](./header.svg)
 
-> ⚡ `CodeQuest819` • He/Him  
-> 🧠 Developer | Tech Explorer | Gen Z Innovator  
+# 👋 Hey — I'm **Num#PY** 😹
 
----
-
-### 💡 About Me  
-- 🚀 Currently building **Jobyquo**, a social job platform with Django & TailwindCSS.  
-- 💬 Focused on creating **clean, responsive, real-world apps**.  
-- 🌱 Learning **Firebase**, **Python automation**, and **AI-assisted education**.  
-- 🎯 Passionate about modern web dev and digital learning for teens.  
+> **CodeQuest819** · He/Him · Developer • Django • TailwindCSS
 
 ---
 
-### 🧰 Tech Stack  
-`Python` | `Django` | `JavaScript` | `TailwindCSS` | `Firebase` | `HTML` | `CSS`
+### 🔭 About
+I build clean, real-world web apps (Jobyquo is my current project).  
+I like Python automation, modern UI, and teaching others how to ship useful stuff.
 
 ---
 
-### 🏆 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=CodeQuest819&show_icons=true&theme=tokyonight)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=CodeQuest819&theme=tokyonight)  
-![](https://github-readme-activity-graph.vercel.app/graph?username=CodeQuest819&theme=tokyo-night)
+### 🧰 Tech Stack
+`Python` `Django` `JavaScript` `TailwindCSS` `Firebase` `HTML` `CSS`
 
 ---
 
-### ⚡ Fun Fact  
-> “Code like lightning, debug like thunder.” ⚡
+### 📊 GitHub Stats (dark)
+![](https://github-readme-stats.vercel.app/api?username=CodeQuest819&show_icons=true&theme=dark)
+![](https://github-readme-streak-stats.herokuapp.com/?user=CodeQuest819&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeQuest819&layout=compact&theme=dark)
+
+---
+
+### ✨ Final note
+I keep things tidy and real — want to collab? Hit me up. 🚀
